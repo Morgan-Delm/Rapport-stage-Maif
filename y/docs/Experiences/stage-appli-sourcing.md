@@ -21,6 +21,18 @@
 
 La mission de l'équipe est de centraliser le recueil des besoins de sourcing des tribus, la gestion des propositions des ESN et le suivi des qualifications au sein d'une même appli pour faciliter le travail des RE et des assistantes.
 
+
+### Equipe
+
+Equipe au démarage :
+
+![]
+
+Equipe lors de mon stage :
+
+![]
+
+
 ### Outils
 
 - un outil de gestion de tâches : Jira 
