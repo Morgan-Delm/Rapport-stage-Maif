@@ -111,6 +111,8 @@ Afin de construire les endpoints de l'API, il a fallu :
 
 #### 📸 Captures d’écran
 
+![Tableau filtré](./img/staffing/tableauFiltrer.png)
+
 ---
 
 ### Sixième étape : Mise en forme
@@ -157,6 +159,8 @@ Afin de construire les endpoints de l'API, il a fallu :
 
 #### 📸 Captures d’écran
 
+![Ecran de changement d'affectation](./img/staffing/changementLigneStaffing.png)
+
 ---
 
 ### Dixième étape : Calcul des charges
@@ -167,8 +171,15 @@ Afin de construire les endpoints de l'API, il a fallu :
 
 #### 📸 Captures d’écran
 
+Pour les internes :  
 
+![Calcul charges pour les internes 199](./img/staffing/interne199.png)
+![Calcul charges pour les internes 398](./img/staffing/interne398.png)
+  
+Pour les externes :  
 
+![Calcul des charges pour les externes 210](./img/staffing/externe210.png)
+![Calcul des charges pour les externes 420](./img/staffing/externe420.png)
 
 
 
