@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunky=self.webpackChunky||[]).push([[1903],{1912:a=>{a.exports=JSON.parse('{"blogBasePath":"/Rapport-stage-Maif/blog","blogTitle":"Blog","authorsListPath":"/Rapport-stage-Maif/blog/authors"}')}}]);
