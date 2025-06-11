@@ -24,10 +24,23 @@ et si une personne change d'équipe, il n'y a pas de trace de ses affectations p
 ![Champs nécessaires](img/staffing/ticket/saisie.png)
 
 D'après les données requises, j'avais dans un premier temps placé des contraintes sur le type et le statut.
-Cependant, lors de la review, mon collègue m'a signalé que cela pourrait potentiellement provoquer quelques problèmes dans le futur si le besoin de l'utilisateur évolue.
+Cependant, lors de la revue, mon collègue m'a signalé que cela pourrait potentiellement provoquer quelques problèmes dans le futur si le besoin de l'utilisateur évolue.
 
-![Retour Reveiw](img/staffing/retourReviewContrainteSchemaBD.png)
+![Retour Review](img/staffing/retourReviewContrainteSchemaBD.png)
 
+Le schéma de la table staffing ressemblait donc à ceci dans un premier temps:  
+
+![Schema BD](img/staffing/code/schemaBD.png)
+
+Il est important de noter que dans ce projet, la base donnée est gérée par liquid base.  
+Le fichier `db.changelog-master.yaml` contient la liste des fichiers sql à exécuter dans l'ordre.
+
+L'une des règles d'équipe sur ce projet est qu'on ne peut plus modifier un fichier sql une fois qu'il a été validé et intégré dans la branche de développement.  
+Par la suite, je me suis rendu compte que l’attribut `tribu_id` n’était pas indispensable. En effet, l’attribut `squad_id` suffisait, puisqu’une squad est toujours rattachée à une tribu. Par conséquent, j’ai dû créer un second fichier SQL pour effectuer les ajustements nécessaires.
+
+![Script SQL Drop column tribu_id](./img/staffing/code/modifTable1.png)
+
+#### 🔌 API
 
 Afin de construire les endpoints de l'API, il a fallu :
 + Le model
@@ -38,9 +51,6 @@ Afin de construire les endpoints de l'API, il a fallu :
 + Le controller
 + Un gestionnaire d'exception
 
-#### 📸 Captures d’écran
-
-![Schema BD](img/staffing/code/schemaBD.png)
 
 #### ✅ Tests
 

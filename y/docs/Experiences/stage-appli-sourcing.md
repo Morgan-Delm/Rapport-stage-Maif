@@ -31,7 +31,7 @@ Equipe lors de mon stage :
 
 Fanny : Représentante des utilisateurs : Teste l’appli – écrit les HU  
 Benoit : PO : Admin du github – Alimentation du backlog avec des HU – teste – donne les objectifs des sprints  
-Alexandre : Dev (squad SCAV) : Support technique dev –revues – validation des PR – tutorat technique (pour apprendre à faire des PR, …)
+Alexandre : Dev (squad SCAV) : Support technique dev –revues – validation des PR – tutorat technique (pour apprendre à faire des PR, …)  
 Manison : Dev (Squad SWAP) : Support tech – codage – déploiement – config openshift – rôle d’OPS
 
 Autre : Les RE dev : représentants utilisateurs à convier aux démos pour feed back
@@ -41,7 +41,7 @@ Autre : Les RE dev : représentants utilisateurs à convier aux démos pour feed
 ### Outils
 
 - un outil de [gestion de tâches : Jira](../Exemples/organisation-jira.md) 
-- un outil de conversation : Teams
+- un outil de [conversation : Teams](../Exemples/echanges-enrichissants.md)
 
 
 

@@ -32,7 +32,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'Exemples',
-      items: ['Exemples/feat-colonne-PJs', 'Exemples/feat-archivage-multiple', 'Exemples/feat-staffing', 'Exemples/refacto-rmc-plume', 'Exemples/organisation-jira']
+      items: ['Exemples/feat-colonne-PJs', 'Exemples/feat-archivage-multiple', 'Exemples/feat-staffing', 'Exemples/refacto-rmc-plume', 'Exemples/organisation-jira', 'Exemples/echanges-enrichissants']
     }
   ],
 };
