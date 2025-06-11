@@ -4,9 +4,13 @@
 
 Développer une application dans un environnement professionnel en respectant les besoins exprimés.
 
+---
+
 ## Expériences
 
 - [Stage Maif: Development d'une application de sourcing](../Experiences/stage-appli-sourcing.md)
+
+---
 
 ## Exemples
 

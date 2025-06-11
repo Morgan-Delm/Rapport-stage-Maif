@@ -4,10 +4,13 @@
 
 Assurer la gestion, la manipulation et la sécurité des données
 
+---
+
 ## Experiences
 
 - [Stage Maif: Development d'une application de sourcing](../Experiences/stage-appli-sourcing.md)
 
+---
 
 ## Exemples
 

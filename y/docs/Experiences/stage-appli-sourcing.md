@@ -1,22 +1,6 @@
 # Stage Maif: développement d'une application de sourcing
 
 
-
----
-
-## Compétences mobilisées
-
-- [C1 : Réaliser un développement d’application](../Competences/C1-realiser-developpement-application.md)
-- [C2 : Optimiser des applications informatiques](../Competences/C2-optimiser-application.md)
-- [C3 : Administrer des systèmes informatiques communicants complexes](../Competences/C3-administrer-systeme-communiquant.md)
-- [C4 : Optimiser une base de données, interagir avec une application et mettre en œuvre la sécurité](../Competences/C4-optimiser-bdd-interagir-securite.md)
-- [C5 : Conduire un projet](../Competences/C5-conduire-projet.md)
-- [C6 : Collaborer dans une équipe informatique](../Competences/C6-collaborer-equipe.md)
-
----
-
-## 
-
 ### Mission 
 
 La mission de l'équipe est de centraliser le recueil des besoins de sourcing des tribus, la gestion des propositions des ESN et le suivi des qualifications au sein d'une même appli pour faciliter le travail des RE et des assistantes.
@@ -43,11 +27,14 @@ Autre : Les RE dev : représentants utilisateurs à convier aux démos pour feed
 - un outil de [gestion de tâches : Jira](../Exemples/organisation-jira.md) 
 - un outil de [conversation : Teams](../Exemples/echanges-enrichissants.md)
 
+---
 
+### Ce que j'ai réalisé
 
-
-
-
+- [Ajout d'une colonne dans un tableau afin d'afficher des pièces jointes](../Exemples/feat-colonne-PJs.md)
+- [Ajout d'une fonctionnalité d'archivages multiples](../Exemples/feat-archivage-multiple.md)
+- [Migration / Refactorisation de composants](../Exemples/refacto-rmc-plume.md)
+- [Création d'une partie 'Staffing' expérimental](../Exemples/feat-staffing.md)
 
 
 

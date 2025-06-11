@@ -4,10 +4,13 @@
 
 Sélectionner les algorithmes adéquats pour répondre à un problème donné
 
+---
+
 ## Experiences
 
 - [Stage Maif: Development d'une application de sourcing](../Experiences/stage-appli-sourcing.md)
 
+---
 
 ## Exemples
 
