@@ -151,8 +151,3 @@ Une fois la liste envoyée, il ne reste plus qu'à vider cette dernière et à a
 ![Archivage multiple exemple](img/archivage/front/tableauApresArchivage.png)
 
 
----
-
-## Retour à la compétence
-
-- [C1 : Réaliser un développement d'application](../Competences/C1-realiser-developpement-application.md)
