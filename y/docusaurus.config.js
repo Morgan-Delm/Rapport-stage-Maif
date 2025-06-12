@@ -78,7 +78,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Rapport de Stage Maif - Delmas Morgan, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
