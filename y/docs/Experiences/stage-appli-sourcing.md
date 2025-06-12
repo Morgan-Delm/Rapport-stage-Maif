@@ -15,7 +15,7 @@ Cette application a pour but de centraliser les besoins en collaborateurs extern
 
 ### Mission 
 
-La mission de l'équipe est de centraliser le recueil des besoins de sourcing des tribus, la gestion des propositions des ESN et le suivi des qualifications au sein d'une même appli pour faciliter le travail des RE et des assistantes.
+La mission de l'équipe est de centraliser le recueil des besoins de sourcing des tribus, la gestion des propositions des ESN et le suivi des qualifications au sein d'une même appli pour faciliter le travail des RE (Responsables d'Equipage) et des assistantes.
 
 ---
 
@@ -101,7 +101,7 @@ Afin de me familiariser avec le projet, j'ai commencé par corriger quelques bug
 - Corrigé :  
 ![Carte centrée au milieu](./img/stage-maif/existant-avant-stage/carte-centree-milieu.png)
 
-Ensuite, j'ai pu m'occuper de fonctionnalités plus importantes : 
+Ensuite, une fois plus à l'aise et avec une meilleure compréhension de la structure du projet, j'ai pu m'occuper de fonctionnalités plus importantes : 
 
 - [Ajout d'une colonne dans un tableau afin d'afficher des pièces jointes](../Exemples/feat-colonne-PJs.md)
 - [Ajout d'une fonctionnalité d'archivages multiples](../Exemples/feat-archivage-multiple.md)

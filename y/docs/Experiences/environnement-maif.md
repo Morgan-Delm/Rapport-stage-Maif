@@ -28,5 +28,4 @@ En charge de faire grandir et rayonner un ensemble de compétences répondant à
 
 ### Position de l'équipe
 
-L'équipe de l'appli de sourcing n'appartient à aucune Squad ni Tribu.  
-Le projet est celui de la guilde des Développeurs.
+L'équipe de l'appli sourcing n'est pas intégrée à une tribu, elle travaille sur les applications utiles pour la guilde de développement.
