@@ -23,7 +23,7 @@ Collaborer efficacement, intégrer les retours, respecter les méthodes de trava
 Tout au long de mon projet, j’ai activement collaboré avec les membres de mon équipe, en utilisant les outils et les méthodes de travail en place. Cette collaboration s’est traduite par des **échanges réguliers**, une **intégration des retours** et une **communication fluide**, illustrant pleinement la compétence C6.
 
 ##### Démarche collaborative
-Communication asynchrone via Teams :
+Communication via Teams :
 
 - **Partage** de liens utiles et de configurations techniques pour faciliter l’onboarding et la compréhension des outils.
 - **Échanges sur les User Stories** pour clarifier les besoins fonctionnels.
