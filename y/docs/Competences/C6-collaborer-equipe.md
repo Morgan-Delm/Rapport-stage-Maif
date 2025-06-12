@@ -39,7 +39,6 @@ Apprentissage par les pairs :
 
 - J’ai bénéficié de l’accompagnement de développeurs expérimentés, ce qui m’a permis de progresser rapidement et de mieux comprendre les bonnes pratiques de développement collaboratif.
 
-##### Compétence mobilisée
 Cette expérience démontre ma capacité à :
 
 - **Collaborer efficacement dans un environnement de développement partagé**.
