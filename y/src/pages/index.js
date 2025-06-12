@@ -28,7 +28,7 @@ function HomepageHeader() {
 export default function Home() {
     return (
         <Layout
-            description="Description will go into a meta tag in <head />">
+            description="Ceci est le rapport de Stage Maif 2025 de Delmas Morgan">
             <HomepageHeader/>
         </Layout>
     );
