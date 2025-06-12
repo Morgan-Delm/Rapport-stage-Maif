@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Rapport de stage Maif - Delmas Morgan',
   tagline: 'Ce rapport rédigé sous forme de wiki.',
-  favicon: 'img/toothless.ico',
+  favicon: 'img/logo_maif.ico',
 
   // Set the production url of your site here
   url: 'https://morgan-delm.github.io/',
@@ -60,12 +60,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/toothless.jpg',
+      image: 'img/logo_maif.jpg',
       navbar: {
         title: 'Accueil',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/toothless.jpg',
+          src: 'img/logo_maif.jpg',
         },
         items: [
           {
