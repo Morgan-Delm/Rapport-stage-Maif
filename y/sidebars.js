@@ -22,7 +22,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'Expériences',
-      items: ['Experiences/stage-appli-sourcing']
+      items: ['Experiences/stage-appli-sourcing', 'Experiences/environnement-maif']
     },
     {
       type: 'category',
