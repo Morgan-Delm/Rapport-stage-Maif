@@ -15,7 +15,7 @@ Regroupement de Squads ayant un objectif ou produit commun (collectif regroupant
 ### Les Squads
 
 **Description :**
-Equip pérenne ayant vocation à délivrer collectivement des éléments de valeur, à gérer un ou plusieurs Produit(s) sur tout son cycle de vie. Elle incarne la maille de base autour du Produit en relation et au service de ses utilisateurs.
+Equipe pérenne ayant vocation à délivrer collectivement des éléments de valeur, à gérer un ou plusieurs Produit(s) sur tout son cycle de vie. Elle incarne la maille de base autour du Produit en relation et au service de ses utilisateurs.
 
 ### Les Responsables d'Equipage (RE)
 
